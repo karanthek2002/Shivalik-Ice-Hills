@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shivalik-ice-hills/static/css/main.d03589f3.css",
+    "main.js": "/shivalik-ice-hills/static/js/main.c2ff4d99.js",
+    "static/media/sea.mp4": "/shivalik-ice-hills/static/media/sea.3baf5c39d6f833ea6518.mp4",
+    "static/media/img1.jpg": "/shivalik-ice-hills/static/media/img1.cd5f6fbb077bc3746ac2.jpg",
+    "static/media/img2.jpg": "/shivalik-ice-hills/static/media/img2.47f84552ee7840a3de3e.jpg",
+    "static/media/img6.jpg": "/shivalik-ice-hills/static/media/img6.ea55e154d662ebd6c75a.jpg",
+    "static/media/img4.jpg": "/shivalik-ice-hills/static/media/img4.0f411ca87427272f4f1b.jpg",
+    "static/media/img5.jpg": "/shivalik-ice-hills/static/media/img5.760c8fa22365ce8c3f89.jpg",
+    "static/media/img3.jpg": "/shivalik-ice-hills/static/media/img3.964c224ac709ca72012b.jpg",
+    "index.html": "/shivalik-ice-hills/index.html",
+    "main.d03589f3.css.map": "/shivalik-ice-hills/static/css/main.d03589f3.css.map",
+    "main.c2ff4d99.js.map": "/shivalik-ice-hills/static/js/main.c2ff4d99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d03589f3.css",
+    "static/js/main.c2ff4d99.js"
+  ]
+}
