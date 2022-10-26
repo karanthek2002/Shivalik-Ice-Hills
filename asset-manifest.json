@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/Shivalik-Ice-Hills/static/css/main.d03589f3.css",
-    "main.js": "/Shivalik-Ice-Hills/static/js/main.8100a7ed.js",
-    "static/media/sea.mp4": "/Shivalik-Ice-Hills/static/media/sea.3baf5c39d6f833ea6518.mp4",
-    "static/media/img1.jpg": "/Shivalik-Ice-Hills/static/media/img1.cd5f6fbb077bc3746ac2.jpg",
-    "static/media/img2.jpg": "/Shivalik-Ice-Hills/static/media/img2.47f84552ee7840a3de3e.jpg",
-    "static/media/img6.jpg": "/Shivalik-Ice-Hills/static/media/img6.ea55e154d662ebd6c75a.jpg",
-    "static/media/img4.jpg": "/Shivalik-Ice-Hills/static/media/img4.0f411ca87427272f4f1b.jpg",
-    "static/media/img5.jpg": "/Shivalik-Ice-Hills/static/media/img5.760c8fa22365ce8c3f89.jpg",
-    "static/media/img3.jpg": "/Shivalik-Ice-Hills/static/media/img3.964c224ac709ca72012b.jpg",
+    "main.css": "/Shivalik-Ice-Hills/static/css/main.f51d11d1.css",
+    "main.js": "/Shivalik-Ice-Hills/static/js/main.1de25183.js",
+    "static/media/img4.jpg": "/Shivalik-Ice-Hills/static/media/img4.3b81b1e90da0ed3c472d.jpg",
+    "static/media/img3.jpg": "/Shivalik-Ice-Hills/static/media/img3.2742cc0f8215a87ae856.jpg",
+    "static/media/img2.jpg": "/Shivalik-Ice-Hills/static/media/img2.9ccca2d816badfefcb67.jpg",
+    "static/media/img1.jpg": "/Shivalik-Ice-Hills/static/media/img1.5f50d1f8ec1b6eed6adb.jpg",
+    "static/media/SIH.png": "/Shivalik-Ice-Hills/static/media/SIH.dbe3c3c71d5712ebbc9e.png",
+    "static/media/img8.webp": "/Shivalik-Ice-Hills/static/media/img8.9457be8807cd17885c46.webp",
+    "static/media/img5.jpg": "/Shivalik-Ice-Hills/static/media/img5.822a1cbfebdb216d8d1f.jpg",
+    "static/media/img7.webp": "/Shivalik-Ice-Hills/static/media/img7.cc3a296848cbee6dfa12.webp",
+    "static/media/img6.webp": "/Shivalik-Ice-Hills/static/media/img6.2fbe782ded44d69d9c43.webp",
     "index.html": "/Shivalik-Ice-Hills/index.html",
-    "main.d03589f3.css.map": "/Shivalik-Ice-Hills/static/css/main.d03589f3.css.map",
-    "main.8100a7ed.js.map": "/Shivalik-Ice-Hills/static/js/main.8100a7ed.js.map"
+    "main.f51d11d1.css.map": "/Shivalik-Ice-Hills/static/css/main.f51d11d1.css.map",
+    "main.1de25183.js.map": "/Shivalik-Ice-Hills/static/js/main.1de25183.js.map"
   },
   "entrypoints": [
-    "static/css/main.d03589f3.css",
-    "static/js/main.8100a7ed.js"
+    "static/css/main.f51d11d1.css",
+    "static/js/main.1de25183.js"
   ]
 }
